@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.head}>
         <View style={styles.group1}>
-          <Text style={styles.headStyle}>Hello , Devss</Text>
+          <Text style={styles.headStyle}>Hello , Devs</Text>
           <Text style={styles.task}>14 tasks today</Text>
         </View>
         <View style={styles.profile}>
